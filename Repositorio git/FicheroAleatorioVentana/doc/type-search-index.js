@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"FicheroAleatorioVentana","l":"FicheroAleatorioVentana"},{"p":"FicheroAleatorioVentana","l":"VentanaDepart"}];updateSearchResults();
